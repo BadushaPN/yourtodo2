@@ -33,7 +33,7 @@ class Profile extends StatelessWidget {
             },
             separatorBuilder: (BuildContext context, int index) {
               return Divider(
-                thickness: 2,
+                thickness: 1,
               );
             },
           ),
